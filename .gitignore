@@ -1,0 +1,9 @@
+/log_processing
+/count_things/processing
+/count_things/count_output/Detections
+/count_things/count_output/InputPhotos
+/count_things/image_drop
+__pycache__
+ftp_image_drop
+/count_things/count_output/1553032617.jpg
+/count_things/count_output/1553032617.json
